@@ -68,16 +68,19 @@ textarea {
 	margin-bottom: 5em;
 }
 
+.footer {
+    margin-top: 2em;
+    font-size: 80%;
+    font-style: 'italic';
+    color: #aaa;
+}
 
-
-
-
-
-
-
-
-
-
+.footer a {
+    color: inherit;
+}
+.footer a:visited {
+    color: inherit;
+}
 
 /* ==========================================================================
    Media Queries
